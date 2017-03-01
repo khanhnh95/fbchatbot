@@ -1,0 +1,686 @@
+http://download.cdn.mozilla.net/pub/firefox/releases/50.1.0/update/win32/en-US/firefox-49.0.2-50.1.0.partial.mar
+
+GET /pub/firefox/releases/50.1.0/update/win32/en-US/firefox-49.0.2-50.1.0.partial.mar HTTP/1.1
+Host: download.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Range: bytes=3000000-3299999
+If-Range: "d9d2d902be997391260ccaa5fb694fe7"
+Connection: keep-alive
+
+HTTP/1.1 206 Partial Content
+Content-Type: application/octet-stream
+x-amz-replication-status: COMPLETED
+Last-Modified: Mon, 12 Dec 2016 18:40:24 GMT
+Etag: "d9d2d902be997391260ccaa5fb694fe7"
+x-amz-version-id: XkXMqRRy0R3YyEIl.G4Yw9LCK1samg8H
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: 2Nqa6g64nMYu4-Bk1v6Hmty1dfYJ1W4D97hyQuyQxyKslXGWLbt43A==
+Date: Tue, 03 Jan 2017 16:18:30 GMT
+Content-Range: bytes 3000000-3299999/21446951
+Content-Length: 300000
+Connection: keep-alive
+----------------------------------------------------------
+https://www.facebook.com/login.php?login_attempt=1&lwv=110
+
+POST /login.php?login_attempt=1&lwv=110 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa85g.AWV8Tc8w; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; wd=1366x698
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 885
+lsd=AVr3jAi0&email=01223158712&pass=459786NguyenHoang&persistent=&default_persistent=1&timezone=-420&lgndim=eyJ3IjoxMzY2LCJoIjo3NjgsImF3IjoxMzY2LCJhaCI6NzY4LCJjIjoyNH0%3D&lgnrnd=081632_Unwk&lgnjs=1483460194&ab_test_data=AAAAZAA%2FMllMAMAZMAAAAAAAAAAAAAAAAAAAAAAAYw%2FJAAJAAAJGAM&locale=vi_VN&next=https%3A%2F%2Fwww.facebook.com%2F&qsstamp=W1tbNiwxNywyNCw1MCw2Nyw4NiwxMDcsMTMyLDEzNywxNTEsMTUyLDE3MiwxOTEsMTkzLDIwNCwyMjcsMjQ5LDI1NiwyNTcsMjU5LDI3MywzMTMsMzI5LDMzMSwzNDQsMzUzLDM1NywzOTEsMzk5LDQwMyw0MTAsNDIwLDQyOSw0NDMsNDQ0LDQ1Nyw0OTAsNDkxLDUwOSw1MTQsNTY1LDcxMF1dLCJBWm1WVXViQmU3M1NQLWJSQnhCaFdQM1dLRVV5OFI4Wm1CU2p4Y1N4VVhVUEktZnBweWdGbmFtdUdiM3RsUGREM3Nnek9hZmVCVTlLSkoxMlJvSktLTVNjNGRjSXFRS3RISDRPR05JcHZTRFhDanl6YW0wd2otT3M3THhQYTVVbFdLOWU4UXRUMFZ4cDhJUWNVSFlsenk2WEllUE40YXBtSExNbzNjTlNWdHlDMjM3N0JDd2lEdVpqVTNXc3pUNTRLZm80MkdYSk01RURmNlY4b1V2NUVHRndzNnZNUkRKS0dHQmN4MHhRNVlTNUZ3Il0%3D
+HTTP/2.0 302 Found
+p3p: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Location: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+access-control-allow-method: OPTIONS
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+Access-Control-Allow-Origin: https://www.facebook.com
+Vary: Origin
+access-control-allow-credentials: true
+Set-Cookie: wd=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1483460323; path=/; domain=.facebook.com
+Set-Cookie: checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A0%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWW3B68gQX1E4QaR%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; path=/; domain=.facebook.com; secure; httponly
+Set-Cookie: locale=en_US; expires=Tue, 10-Jan-2017 16:18:44 GMT; Max-Age=604800; path=/; domain=.facebook.com
+Content-Type: text/html
+X-FB-Debug: pqJLqEu3bBqB9vea47ZjdpOc3KPqXRFAkT9HcdUn0YWXGvW4KAYOO1Jx2v1Q10abuTIIOxL14E99F//Cf1Zfhw==
+Content-Length: 0
+Date: Tue, 03 Jan 2017 16:18:44 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+
+GET /checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa85g.AWV8Tc8w; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A0%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWW3B68gQX1E4QaR%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/2.0 200 OK
+p3p: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+x-frame-options: DENY
+Strict-Transport-Security: max-age=15552000; preload
+x-content-type-options: nosniff
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+Pragma: no-cache
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+x-xss-protection: 0
+Set-Cookie: checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; path=/; domain=.facebook.com; secure; httponly
+Set-Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; expires=Mon, 03-Apr-2017 16:18:45 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-Type: text/html
+X-FB-Debug: hPInWrfKCoFs8HcYxw3KWZT7eNwudEYD4Tmlc9ZUArBn8Fa1ZDqtzphruOPOmACTWx0enGFZcE4of28I3SZJTg==
+Date: Tue, 03 Jan 2017 16:18:45 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/ye/r/YYYATH5txqv.css
+
+GET /rsrc.php/v3/ye/r/YYYATH5txqv.css HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: text/css; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Mon, 01 Jan 2018 12:27:52 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: WAM0+xu9OroyZ6sT65ENtA==
+X-FB-Debug: upftjseozYO3qskKZQbFQic031oZvz6Zc4TsGW6L0L5xakRaaEvd2zzHTZahfnsgJ0Dk/r1zisw9Qz5znb01Iw==
+Date: Sun, 01 Jan 2017 12:27:52 GMT
+Content-Length: 1751
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/yO/r/r_yXDZYSgW3.css
+
+GET /rsrc.php/v3/yO/r/r_yXDZYSgW3.css HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Content-Type: text/css; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Tue, 26 Dec 2017 13:28:57 GMT
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: dSZcRe8h+NllwQ6e+6jD3Q==
+X-FB-Debug: 6Nfw6H3AzegdB1buFvoTiFkHNFretyk/xrQEEW8WcNewv+byl3PZlbzm17PBY1RDEcPs9zKhoq8+jx0zcOM4Rg==
+Date: Mon, 26 Dec 2016 13:28:58 GMT
+Content-Length: 9273
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://external-sit4-1.xx.fbcdn.net/safe_image.php?d=AQA2_Pb4-pLPsoDq&url=https%3A%2F%2Fpixel.facebook.com%2Fsi%2Fkappa%2F%3FKo%3Dp&_nc_hash=AQBbs84gy-QEmIJ_
+
+GET /safe_image.php?d=AQA2_Pb4-pLPsoDq&url=https%3A%2F%2Fpixel.facebook.com%2Fsi%2Fkappa%2F%3FKo%3Dp&_nc_hash=AQBbs84gy-QEmIJ_ HTTP/1.1
+Host: external-sit4-1.xx.fbcdn.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+Etag: "17480a66aec90190fcd27f9018729edf"
+Last-Modified: Fri, 30 Dec 2016 06:00:23 GMT
+Cache-Control: public, max-age=86400
+Expires: Sat, 31 Dec 2016 06:00:23 GMT
+access-control-allow-credentials: true
+x-frame-options: DENY
+Vary: Origin
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+access-control-allow-method: OPTIONS
+Content-Type: image/png
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+X-FB-Debug: 7I/oJaYIn0oyVssbWwh3/j9FM07SRpjiImB7hEsiuXXrda+cysMwNs4b6qViZ53tdp85NBAyzfmfVSTfYrv+vg==
+Timing-Allow-Origin: *
+Access-Control-Allow-Origin: *
+Content-Length: 69
+Date: Tue, 03 Jan 2017 16:18:45 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/ya/r/wri92-d2ZOE.css
+
+GET /rsrc.php/v3/ya/r/wri92-d2ZOE.css HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Content-Type: text/css; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Sat, 30 Dec 2017 14:53:34 GMT
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: eA3BrpfIewRMOHf0BfKm0w==
+X-FB-Debug: phMstjQb3VhGDx+iqBlkTNGvHBCAfjg3xQhBX8gLFYeRL5tloXwOk+QqJ+F63tHLaU0vpba4+9jACM+lzBs7XA==
+Date: Fri, 30 Dec 2016 14:53:34 GMT
+Content-Length: 4082
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/yn/r/7QYZO6saFTj.png
+
+GET /rsrc.php/v3/yn/r/7QYZO6saFTj.png HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/rsrc.php/v3/yO/r/r_yXDZYSgW3.css
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: image/png
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Tue, 19 Dec 2017 07:02:27 GMT
+Content-MD5: FqpifXuYkZ0E1rYXKMagZg==
+X-FB-Debug: vidfaC+LzumYAkW8q8M0O0+7JHncrioTmqLJhQB8h3coTba8z+7cDBKp172Z7iR/sa+kuX4Ckv2X3B+BP/4ZoA==
+Date: Mon, 19 Dec 2016 07:02:27 GMT
+Content-Length: 6779
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3iWxT4/yh/l/en_GB/UjLTv6LlGZ2.js
+
+GET /rsrc.php/v3iWxT4/yh/l/en_GB/UjLTv6LlGZ2.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Fri, 29 Dec 2017 11:39:41 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: plMlhcp6Sd2rUD5sOxhRGQ==
+X-FB-Debug: HBKvqOCtzGeYOqnCCq04Y4ps2p5QL5uMY9NH9n/h0enFdmdZ6LTgYdhYL/qwUFoRUJWXMP3jVWyGptZr7nIf0g==
+Date: Thu, 29 Dec 2016 11:39:42 GMT
+Content-Length: 36229
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/yu/r/Mjxl7Xnv0rB.js
+
+GET /rsrc.php/v3/yu/r/Mjxl7Xnv0rB.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Tue, 02 Jan 2018 04:05:55 GMT
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: RRGVZo7v2eGH4CH9DZfebA==
+X-FB-Debug: ttBa65y0OC9pz4wryZJ9PBb6vOfCsGtv51ouLOecIH5zzNHVjbUKY+BFuIs5g3NXjaXcTvVlwYaNPUkxe4qpig==
+Date: Mon, 02 Jan 2017 04:05:55 GMT
+Content-Length: 2238
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3i58P4/yS/l/en_GB/IkoaYELUFbH.js
+
+GET /rsrc.php/v3i58P4/yS/l/en_GB/IkoaYELUFbH.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Wed, 27 Dec 2017 03:55:58 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: eavrBgekcvUvY54OBVy0Ng==
+X-FB-Debug: 6SQ2w3lypi1yol24Cg9QPev6qWauz93ABepRKrtDkLzD1S3hjdDqmrqQGWgrZv08eTODMxZtNaTgJSjIjAPQYg==
+Date: Tue, 27 Dec 2016 03:55:58 GMT
+Content-Length: 16271
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3i-b04/ya/l/en_GB/QS8k-WqnW0-.js
+
+GET /rsrc.php/v3i-b04/ya/l/en_GB/QS8k-WqnW0-.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Thu, 28 Dec 2017 05:12:50 GMT
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: 1TMxUmngR7ozcmlZ3yv+Wg==
+X-FB-Debug: SIstTGR1fs/yGul2b8pO5MfbtIrg5hHVpo6NzSage/EDn+RUXMY0URRCaWwW+iWYyK9VxsQV8lYZMVNylG4QAw==
+Date: Wed, 28 Dec 2016 05:12:51 GMT
+Content-Length: 43525
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3iEQY4/y3/l/en_GB/H3zVEYA998I.js
+
+GET /rsrc.php/v3iEQY4/y3/l/en_GB/H3zVEYA998I.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Wed, 27 Dec 2017 13:12:45 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: HBII7U2LO65uSwjjzEyF7w==
+X-FB-Debug: i94ueyFM9hP1xMCGdkf7WcfGnwyo7re6nmlXs7nPXyv08CDowU1+3iOAGOWa5HvHa9HVV5ZxJiPX8QLE7pvlKg==
+Date: Tue, 27 Dec 2016 13:12:45 GMT
+Content-Length: 11015
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/yx/r/1nKl94h6izB.js
+
+GET /rsrc.php/v3/yx/r/1nKl94h6izB.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Wed, 27 Dec 2017 16:18:05 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: WAP8UY3SkX81qQxFt7Uu8A==
+X-FB-Debug: 6e/QrNyifWBYWwwPXtVpD4CmpS9czPLqD9PRwZ9/mMedEqef+Fbw7GBPohtdujAAEs/wFin6LgqzTqVdnwQ2NA==
+Date: Tue, 27 Dec 2016 16:18:05 GMT
+Content-Length: 1932
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3ixzs4/ya/l/en_GB/5v6vHxRgY3M.js
+
+GET /rsrc.php/v3ixzs4/ya/l/en_GB/5v6vHxRgY3M.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Thu, 28 Dec 2017 08:37:57 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: tmjm3/ExchC7kdIuUYt/7Q==
+X-FB-Debug: likSkuy+n3jvhBcWpblcgoOvsMXWUh/az8QWubZtwVSIqPPnHChdEH3OL2TtsaqWohuFEiSEKHsj0jb85MrQNw==
+Date: Wed, 28 Dec 2016 08:37:57 GMT
+Content-Length: 6795
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/y0/r/BUK3f3GXo3I.js
+
+GET /rsrc.php/v3/y0/r/BUK3f3GXo3I.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Thu, 28 Dec 2017 06:10:25 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: sNy1RczpPGEwfh3/xtCi5g==
+X-FB-Debug: eDCnBX8NdJc5LjteLoGWirpa2HAFTE+rtHobfMKd0SFrYgx1srFiVcD3H+Z2cSVmkUEMROgyM+kaHXfDj45DYw==
+Date: Wed, 28 Dec 2016 06:10:26 GMT
+Content-Length: 40947
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3/yq/r/CkD6R-NZypw.js
+
+GET /rsrc.php/v3/yq/r/CkD6R-NZypw.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Wed, 27 Dec 2017 08:16:13 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: Ss8nDVFOwVuynVrso4bN/A==
+X-FB-Debug: oSPJkW7qRM35S4WBiu1y6iUbwIrLJzlvShrJgH27HM8bldvmaEjtVakcMLF9SWD9b/xQWcttvnt4qizBRWq3zw==
+Date: Tue, 27 Dec 2016 08:16:13 GMT
+Content-Length: 7478
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/rsrc.php/v3iWVb4/yC/l/en_GB/3Rg_6E00ExO.js
+
+GET /rsrc.php/v3iWVb4/yC/l/en_GB/3Rg_6E00ExO.js HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-credentials: true
+Access-Control-Allow-Origin: *
+Last-Modified: Mon, 01 Jan 2001 08:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Timing-Allow-Origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+Cache-Control: public,max-age=31536000,immutable
+Expires: Sun, 24 Dec 2017 16:50:47 GMT
+Vary: Accept-Encoding
+Content-Encoding: br
+Content-MD5: KGozq6lnVBqVXH7+jlGFiA==
+X-FB-Debug: klAVDoEifDemn4y1hl4D5CAj65fFjKweencehoN1AMmrhEJzl1l1PZIL/Ji0Ah40kp1AZIrRAmbHDlOSwhjf/Q==
+Date: Sat, 24 Dec 2016 16:50:48 GMT
+Content-Length: 3634
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/ajax/bz
+
+POST /ajax/bz HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Content-Length: 2030
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F; wd=1366x698
+Connection: keep-alive
+__a=1&__af=i0&__be=-1&__dyn=7xeXxaER0gbgmwCwRAKEhy8jrWo466E4a2i5U4e1ox27QdwPGi7UKaxeUW2y7E4iu3e225ob8C262S1tyoO6Egx61YCBxZ1i2mu7E-4oW3K10wKBU&__pc=PHASED%3ADEFAULT&__req=1&__rev=2762676&__user=0&fb_dtsg=DTbDKXfxdZE%3D&ph=V3&q=%5B%7B%22user%22%3A%220%22%2C%22page_id%22%3A%22q2cgye%22%2C%22posts%22%3A%5B%5B%22script_path_change%22%2C%7B%22source_path%22%3A%22WebIndexReduxController%22%2C%22source_token%22%3A%22b2227d82%22%2C%22dest_path%22%3A%22WebCheckpointController%22%2C%22dest_token%22%3A%2201afab33%22%2C%22impression_id%22%3A%2273bf1b22%22%2C%22cause%22%3A%22load%22%2C%22extra_data%22%3A%7B%22via_banzai_vital%22%3A%221%22%7D%2C%22source_restored%22%3Atrue%7D%2C1483460326711%2C0%5D%2C%5B%22scuba_sample%22%2C%7B%22int%22%3A%7B%22clientWidth%22%3A1349%2C%22clientHeight%22%3A698%7D%2C%22normal%22%3A%7B%22view%22%3A%22normal%22%7D%2C%22_ds%22%3A%22www_tinyview_port%22%2C%22_options%22%3A%7B%22addBrowserFields%22%3Atrue%7D%7D%2C1483460326902%2C0%5D%2C%5B%22ods%3Ams.time_spent.qa.www%22%2C%7B%22time_spent.bits.js_initialized%22%3A%5B1%5D%7D%2C1483460327714%2C0%5D%5D%2C%22trigger%22%3A%22ods%3Ams.time_spent.qa.www%22%2C%22send_method%22%3A%22ajax%22%7D%2C%7B%22user%22%3A%220%22%2C%22page_id%22%3A%22k64hnu%22%2C%22posts%22%3A%5B%5B%22time_spent_bit_array%22%2C%7B%22tos_id%22%3A%22k64hnu%22%2C%22start_time%22%3A1483460193%2C%22tos_array%22%3A%5B51%2C0%5D%2C%22tos_len%22%3A9%2C%22tos_seq%22%3A0%2C%22tos_cum%22%3A4%7D%2C1483460201975%2C0%5D%2C%5B%22script_path_change%22%2C%7B%22source_path%22%3A%22WebIndexReduxController%22%2C%22source_token%22%3A%22b2227d82%22%2C%22dest_path%22%3Anull%2C%22dest_token%22%3Anull%2C%22cause%22%3A%22unload%22%2C%22extra_data%22%3A%7B%22via_banzai_vital%22%3A%221%22%7D%7D%2C1483460326109%2C0%5D%2C%5B%22time_spent_bit_array%22%2C%7B%22tos_id%22%3A%22k64hnu%22%2C%22start_time%22%3A1483460305%2C%22tos_array%22%3A%5B1830839%2C0%5D%2C%22tos_len%22%3A22%2C%22tos_seq%22%3A1%2C%22tos_cum%22%3A21%7D%2C1483460326111%2C0%5D%5D%7D%5D&ts=1483460327733&ttstamp=2688498687588102120100906961
+HTTP/2.0 200 OK
+p3p: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+x-xss-protection: 0
+access-control-allow-credentials: true
+Pragma: no-cache
+Access-Control-Allow-Origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+Cache-Control: private, no-cache, no-store, must-revalidate
+Set-Cookie: wd=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1483460326; path=/; domain=.facebook.com
+Vary: Origin, Accept-Encoding
+Content-Encoding: br
+X-FB-Debug: ecnS9Cc/1Nk51lfhI19r+dIT80mQDT2ffUE+o4PG5HirL1qH3qGKX+oO96uPcrf1+yT37zq6Olty7tv3oKTKSg==
+Date: Tue, 03 Jan 2017 16:18:47 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/login/approvals/approved_machine_check/?dpr=1
+
+POST /login/approvals/approved_machine_check/?dpr=1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Content-Length: 254
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; _js_reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F
+Connection: keep-alive
+__user=0&__a=1&__dyn=7xeXxaER0gbgmwCwRAKEhy8jrWo466E4a2i5U4e1ox27QdwPGi7UKaxeUW2y7E4iu3e225ob8C262S1tyoO6Egx61YCBxZ1i2mu7E-4oW3K10wKBU&__af=i0&__req=2&__be=-1&__pc=PHASED%3ADEFAULT&__rev=2762676&fb_dtsg=DTbDKXfxdZE%3D&ttstamp=2688498687588102120100906961
+HTTP/2.0 200 OK
+p3p: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+x-xss-protection: 0
+access-control-allow-credentials: true
+Pragma: no-cache
+Access-Control-Allow-Origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+Cache-Control: private, no-cache, no-store, must-revalidate
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F; path=/; domain=.facebook.com; httponly
+Set-Cookie: _js_reg_fb_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1483460330; path=/; domain=.facebook.com; httponly
+Vary: Origin, Accept-Encoding
+Content-Encoding: br
+X-FB-Debug: yEDH72ZMLcQ+AR+I8EDZvyAgbjFhpvbVDj6tmrs7HilKcdzjto7vvJ4b9Sy+R1abkxYlaFzfw1Oi3etNlylsLw==
+Date: Tue, 03 Jan 2017 16:18:51 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/ajax/bz
+
+POST /ajax/bz HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en,fr;q=0.8,fr-FR;q=0.5,en-US;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/checkpoint/?next=https%3A%2F%2Fwww.facebook.com%2F
+Content-Length: 658
+Cookie: fr=0Ml0utCIba2c8r3fH..BYa80C.Qt.AAA.0.0.BYa87l.AWU2hKGc; datr=R81rWCpDZPTxo1P3KofpPyBJ; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcheckpoint%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; checkpoint=%7B%22u%22%3A100010628684754%2C%22t%22%3A1483460324%2C%22step%22%3A25%2C%22n%22%3A%22DTbDKXfxdZE%3D%22%2C%22inst%22%3A%22364065260624427%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3A%22izTb%5C%2FhMwZiM%3D%22%2C%22ta%22%3A%221483460324.ch.s%3Apw.tDBEAiAZnlT20rZ0SvjrVKIRkGWKSx6zFMCpcGz9AensM1g-tAIgZ3dfsDd_fDekiVqJmfyn0RrTVclQzzCOWYtjzTLR_08%22%2C%22s%22%3A%22AWXmd05GI7E_XBxb%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D; locale=en_US; wd=1366x698
+Connection: keep-alive
+__a=1&__af=i0&__be=-1&__dyn=7xeXxaER0gbgmwCwRAKEhy8jrWo466E4a2i5U4e1ox27QdwPGi7UKaxeUW2y7E4iu3e225ob8C262S1tyoO6Egx61YCBxZ1i2mu7E-4oW3K10wKBU&__pc=PHASED%3ADEFAULT&__req=3&__rev=2762676&__user=0&fb_dtsg=DTbDKXfxdZE%3D&ph=V3&q=%5B%7B%22user%22%3A%220%22%2C%22page_id%22%3A%22q2cgye%22%2C%22posts%22%3A%5B%5B%22time_spent_bit_array%22%2C%7B%22tos_id%22%3A%22q2cgye%22%2C%22start_time%22%3A1483460326%2C%22tos_array%22%3A%5B415%2C0%5D%2C%22tos_len%22%3A9%2C%22tos_seq%22%3A0%2C%22tos_cum%22%3A7%7D%2C1483460334719%2C0%5D%5D%2C%22trigger%22%3A%22time_spent_bit_array%22%2C%22send_method%22%3A%22ajax%22%7D%5D&ts=1483460334731&ttstamp=2688498687588102120100906961
+HTTP/2.0 200 OK
+p3p: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data:;style-src data: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com;
+x-xss-protection: 0
+access-control-allow-credentials: true
+Pragma: no-cache
+Access-Control-Allow-Origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+public-key-pins-report-only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+Cache-Control: private, no-cache, no-store, must-revalidate
+Set-Cookie: wd=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1483460333; path=/; domain=.facebook.com
+Vary: Origin, Accept-Encoding
+Content-Encoding: br
+X-FB-Debug: fGbGwde4UsYZZsnVmzgpUMlFYi3F1IkGP0rt7aEamk+kh1oILIxeVPlTfDdo6BmsC4tNrwU39QQVeQFNwMOoSw==
+Date: Tue, 03 Jan 2017 16:18:54 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
